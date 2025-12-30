@@ -18,7 +18,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 
 | Year | Venue | Paper Title                                                       | Repository | Tags   |
 | ---- | ----- | ----------------------------------------------------------------- | ---------- | ------- |
-| 2020 | IEEE RA-L | **DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes** | [![GitHub Repo](https://img.shields.io/github/stars/BertaBescos/DynaSLAM?style=social)](https://github.com/BertaBescos/DynaSLAM) | website |
-
+| 2020 | IEEE RA-L | [**DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes**](https://arxiv.org/pdf/1806.05620) | [![GitHub Repo](https://img.shields.io/github/stars/BertaBescos/DynaSLAM?style=social)](https://github.com/BertaBescos/DynaSLAM) | Deep learning |
+| ---- | ----- | ----------------------------------------------------------------- | ---------- | ------- |
 
 ---
