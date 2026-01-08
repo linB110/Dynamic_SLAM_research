@@ -22,7 +22,6 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2019 | IEEE Access  | [**SOF-SLAM: A Semantic Visual SLAM for Dynamic Environments**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894002)                                                                 | —                                                                                                                            | SegNet, Optical flow & optical flow    |
 | 2020 | ISPRS IJGI  | [**DM-SLAM: A Feature-Based SLAM System for Rigid Dynamic Scenes**](https://www.researchgate.net/publication/340330756_DM-SLAM_A_Feature-Based_SLAM_System_for_Rigid_Dynamic_Scenes)               | —                                                                                                                            | Segmentation & optical flow    |
 | 2020 | arXiv       | [**VDO-SLAM: A Visual Dynamic Object-aware SLAM System**](https://arxiv.org/pdf/2005.11052)                                                                                                        | [![GitHub](https://img.shields.io/badge/GitHub-VDO--SLAM-black?logo=github)](https://github.com/halajun/VDO_SLAM)            | Optical flow & moving factor   |
-| 2020 | IEEE ICRA       | [**FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow**](https://arxiv.org/pdf/2003.05102)                                                                                             | —                                                                                                                            | Optical flow, Scene flow & feature update   |
 | 2021 | IEEE RA-L   | [**DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM**](https://arxiv.org/pdf/2010.07820)                                                                                                | —                                                                                                                            | Dynamic object estimation      |
 | 2021 | IEEE Access | [**RDS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9318990)                                                       | [![GitHub](https://img.shields.io/badge/GitHub-RDS--SLAM-black?logo=github)](https://github.com/yubaoliu/RDS-SLAM)           | Semantic segmentation          |
 | 2021 | Springer JINT |  [**Crowd-SLAM is a visual SLAM system that is robust in crowded scenarios**](https://link.springer.com/article/10.1007/s10846-021-01414-1)                                                       | [![GitHub](https://img.shields.io/badge/GitHub-Crowd--SLAM-black?logo=github)](https://github.com/virgolinosoares/Crowd-SLAM) | YOLOv3 & Kpts update |
@@ -38,6 +37,19 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2025 | IEEE RA-L   | [**DDN-SLAM: Real-Time Dense Dynamic Neural Implicit SLAM**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10904342)                                                                    | [![GitHub](https://img.shields.io/badge/GitHub-DDN--SLAM-black?logo=github)](https://github.com/DrLi-Ming/DDN-SLAM)          | YOLOv5 & optical flow          |
 | ---- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 
+--- 
+
+## 🧠 Helpful paper 
+
+| 2015 | IEEE ICCV       | [**FlowNet: Learning Optical Flow with Convolutional Networks**](https://arxiv.org/abs/1504.06852) | [![GitHub](https://img.shields.io/badge/GitHub-flownet--name-black?logo=github)](https://github.com/lmb-freiburg/flownet2) 
+| Optical flow detection by DL   |
+| 2020 | IEEE ICRA       | [**FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow**](https://arxiv.org/pdf/2003.05102) | — | Optical flow, Scene flow & feature update   |
+| 2025 | IEEE ICRA       | [**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**](https://arxiv.org/abs/2504.14516) | [![GitHub](https://img.shields.io/badge/GitHub-BA-dynamic--name-black?logo=github)](https://github.com/wrchen530/batrack) 
+ | reconstruction with dynamic object   |
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Dynamic--name-black?logo=github)]() 
+
+
 
 ---
