@@ -48,10 +48,12 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 
 | Year | Venue | Paper Title | Repository | Description |
 |------|------------|-------|------|-------------|
-| 2015 | IEEE ICCV | **[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)** | [![GitHub](https://img.shields.io/badge/GitHub-flownet-black?logo=github)](https://github.com/lmb-freiburg/flownet2) | Optical flow detection by DL |
+| 2015 | IEEE ICCV | **[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)** | [![GitHub](https://img.shields.io/badge/GitHub-flownet-black?logo=github)](https://github.com/lmb-freiburg/flownet2) | Optical flow computation by DL |
 | 2020 | IEEE ICRA | **[FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow](https://arxiv.org/pdf/2003.05102)** | — | Optical flow, Scene flow & feature update |
-| 2023 | IEEE ICCV | [**VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation**](https://arxiv.org/pdf/2303.08340)** | [![GitHub](https://img.shields.io/badge/GitHub-VodeoFlow-black?logo=github)](https://github.com/XiaoyuShi97/VideoFlow) | Reconstruction with dynamic objects |
+| 2023 | IEEE ICCV | [**VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation**](https://arxiv.org/pdf/2303.08340)** | [![GitHub](https://img.shields.io/badge/GitHub-VideoFlow-black?logo=github)](https://github.com/XiaoyuShi97/VideoFlow) | Optical flow computation by DL |
+| 2024 | IEEE CVPR | [**MemFlow: Optical Flow Estimation and Prediction with Memory**](https://arxiv.org/pdf/2404.04808) | [![GitHub](https://img.shields.io/badge/GitHub-MemFlow-black?logo=github)](https://github.com/DQiaole/MemFlow) | Optical flow computation by DL |
 | 2025 | IEEE ICCV | **[Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction](https://arxiv.org/abs/2504.14516)** | [![GitHub](https://img.shields.io/badge/GitHub-BA--dynamic-black?logo=github)](https://github.com/wrchen530/batrack) | Reconstruction with dynamic objects |
+| 2025 | IEEE ICCV | [**FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases**](https://arxiv.org/pdf/2509.05297) | [![GitHub](https://img.shields.io/badge/GitHub-FlowSeek-black?logo=github)](https://github.com/mattpoggi/flowseek) | Optical flow computation by DL |
 
 ---
 
