@@ -43,7 +43,18 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2025 | IEEE IROS   | [**NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU**](https://arxiv.org/pdf/2405.07392)                                                                  | [![GitHub](https://img.shields.io/badge/GitHub-NGD--SLAM-black?logo=github)](https://github.com/yuhaozhang7/NGD-SLAM)  | YOLO & maks propagation & optical flow          |
 | 2026 | ISPRS IJGI  | [**TAS-SLAM: A Visual SLAM System for Complex Dynamic Environments Integrating Instance-Level Motion Classification and Temporally Adaptive Super-Pixel Segmentation**](https://www.mdpi.com/2220-9964/15/1/7)                                                                   |   —       |      motion classification & segmentation     |
 
---- 
+---
+
+## 📊 Dataset 
+| Year | Venue | Paper Title | Repository | Description |
+| 2012 | IEEE CVPR | **[Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)** | [KITTI](https://www.cvlibs.net/datasets/kitti/) | Monocular/Stereo, static & dynamic scene |
+| 2012 | IEEE IROS | **[A Benchmark for the Evaluation of RGB-D SLAM Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6385773)** | [TUM](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) | RGB-D, static & dynamic scene |
+| 2016 | SAGE IJRR | **[The EuRoC micro aerial vehicle datasets](https://journals.sagepub.com/doi/10.1177/0278364915620033)** | [EuROC](https://www.research-collection.ethz.ch/entities/researchdata/bcaf173e-5dac-484b-bc37-faf97a594f1f) | Stereo, static scene |
+| 2019 | IEEE IROS | **[ReFusion: 3D Reconstruction in Dynamic Environments
+for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082)** | [Bonn](https://www.ipb.uni-bonn.de/data/rgbd-dynamic-dataset/index.html) | RGB-D, static & dynamic scene |
+| 2020 | IEEE ICRA | **[Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM](https://arxiv.org/pdf/1911.05603)** | [OpenLORIS](https://github.com/lifelong-robotic-vision/openloris-scene-tools/tree/icra20) | RGB-D, static & dynamic scene |
+
+---
 
 ## 🧠 Helpful paper 
 
