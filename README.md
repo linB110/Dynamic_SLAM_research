@@ -47,6 +47,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 
 ## 📊 Dataset 
 | Year | Venue | Paper Title | Repository | Description |
+| ---- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | 2012 | IEEE CVPR | **[Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)** | [KITTI](https://www.cvlibs.net/datasets/kitti/) | Monocular/Stereo, static & dynamic scene |
 | 2012 | IEEE IROS | **[A Benchmark for the Evaluation of RGB-D SLAM Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6385773)** | [TUM](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) | RGB-D, static & dynamic scene |
 | 2016 | SAGE IJRR | **[The EuRoC micro aerial vehicle datasets](https://journals.sagepub.com/doi/10.1177/0278364915620033)** | [EuROC](https://www.research-collection.ethz.ch/entities/researchdata/bcaf173e-5dac-484b-bc37-faf97a594f1f) | Stereo, static scene |
