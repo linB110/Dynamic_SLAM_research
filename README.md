@@ -56,7 +56,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 
 ---
 
-## 🧠 Helpful paper 
+## 🧠 recommended paper 
 
 | Year | Venue | Paper Title | Repository | Description |
 |------|------------|-------|------|-------------|
@@ -64,6 +64,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2020 | IEEE ICRA | **[FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow](https://arxiv.org/pdf/2003.05102)** | — | Optical flow, Scene flow & feature update |
 | 2023 | IEEE ICCV | [**VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation**](https://arxiv.org/pdf/2303.08340) | [![GitHub](https://img.shields.io/badge/GitHub-VideoFlow-black?logo=github)](https://github.com/XiaoyuShi97/VideoFlow) | Optical flow computation by DL |
 | 2024 | IEEE CVPR | [**MemFlow: Optical Flow Estimation and Prediction with Memory**](https://arxiv.org/pdf/2404.04808) | [![GitHub](https://img.shields.io/badge/GitHub-MemFlow-black?logo=github)](https://github.com/DQiaole/MemFlow) | Optical flow computation by DL |
+| 2024 | IEEE ICRA | [**The Importance of Coordinate Frames in Dynamic SLAM**](https://arxiv.org/pdf/2312.04031) | [![GitHub](https://img.shields.io/badge/GitHub-DynaCord-black?logo=github)](https://github.com/ACFR-RPG/dynamic_slam_coordinates) | coordinate formulation in dynamics |
 | 2025 | IEEE ICCV | **[Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction](https://arxiv.org/abs/2504.14516)** | [![GitHub](https://img.shields.io/badge/GitHub-BA--Track-black?logo=github)](https://github.com/wrchen530/batrack) | Reconstruction with dynamic objects |
 | 2025 | IEEE ICCV | [**FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases**](https://arxiv.org/pdf/2509.05297) | [![GitHub](https://img.shields.io/badge/GitHub-FlowSeek-black?logo=github)](https://github.com/mattpoggi/flowseek) | Optical flow computation by DL |
 | 2025 | IEEE IROS   | [**Perpetua: Multi-Hypothesis Persistence Modeling for Semi-Static Environments**](https://arxiv.org/abs/2507.18808)                                                                  | [![GitHub](https://img.shields.io/badge/GitHub-Perpetua-black?logo=github)](https://github.com/montrealrobotics/perpetua-code)  | models the presence and absence of semi-static feature         |
