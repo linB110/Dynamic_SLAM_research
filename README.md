@@ -45,7 +45,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 
 ---
 
-## 📊 Dataset 
+## 📚 Dataset 
 | Year | Venue | Paper Title | Repository | Description |
 | ---- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | 2012 | IEEE CVPR | **[Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)** | [KITTI](https://www.cvlibs.net/datasets/kitti/) | Monocular/Stereo, static & dynamic scene |
@@ -53,6 +53,13 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2016 | SAGE IJRR | **[The EuRoC micro aerial vehicle datasets](https://journals.sagepub.com/doi/10.1177/0278364915620033)** | [EuROC](https://www.research-collection.ethz.ch/entities/researchdata/bcaf173e-5dac-484b-bc37-faf97a594f1f) | Stereo, static scene |
 | 2019 | IEEE IROS | **[ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082)** | [Bonn](https://www.ipb.uni-bonn.de/data/rgbd-dynamic-dataset/index.html) | RGB-D, static & dynamic scene |
 | 2020 | IEEE ICRA | **[Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM](https://arxiv.org/pdf/1911.05603)** | [OpenLORIS](https://github.com/lifelong-robotic-vision/openloris-scene-tools/tree/icra20) | RGB-D, static & dynamic scene |
+
+---
+
+## 📊 survey paper
+| Year | Venue | Paper Title |
+|------|------------|-------|
+| 2024 | IEEE TIM | **[A Survey of Visual SLAM in Dynamic Environment: The Evolution From Geometric to Semantic Approaches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10577209)** | 
 
 ---
 
