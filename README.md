@@ -60,6 +60,7 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | Year | Venue | Paper Title |
 |------|------------|-------|
 | 2024 | IEEE TIM | **[A Survey of Visual SLAM in Dynamic Environment: The Evolution From Geometric to Semantic Approaches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10577209)** | 
+| 2025 | Elsevier ISA | **[Semantic SLAM: A comprehensive survey of methods and applications](https://www.sciencedirect.com/science/article/pii/S2667305325001176)** | 
 
 ---
 
