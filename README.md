@@ -43,8 +43,6 @@ If you find this repository useful, a ⭐ would be greatly appreciated 😊
 | 2025 | IEEE RA-L   | [**DDN-SLAM: Real-Time Dense Dynamic Neural Implicit SLAM**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10904342)                                                                    | [![GitHub](https://img.shields.io/badge/GitHub-DDN--SLAM-black?logo=github)](https://github.com/DrLi-Ming/DDN-SLAM)          | YOLOv5 & optical flow          |
 | 2025 | IEEE IROS   | [**NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU**](https://arxiv.org/pdf/2405.07392)                                                                  | [![GitHub](https://img.shields.io/badge/GitHub-NGD--SLAM-black?logo=github)](https://github.com/yuhaozhang7/NGD-SLAM)  | YOLO & maks propagation & optical flow          |
 | 2025 | arxiv   | [**IL-SLAM: Intelligent Line-assisted SLAM Based on Feature Awareness for Dynamic Environments**](https://arxiv.org/pdf/2509.02972)                                                                  | —  |   use line feature for minimize reprojection error       |
-| 2026 | Elsevier ISPRS  | [**TAS-SLAM: A Visual SLAM System for Complex Dynamic Environments Integrating Instance-Level Motion Classification and Temporally Adaptive Super-Pixel Segmentation**](https://www.mdpi.com/2220-9964/15/1/7)                                                                   |   —       |      motion classification & segmentation     |
-
 ---
 
 ## 📚 Dataset 
